@@ -1,4 +1,4 @@
-### Hi there 👋/Salut ici 👋
+# Hi there 👋/Salut ici 👋
 
 <!--
 **MediaGroupProgramTech/MediaGroupProgramTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- The Media Tech Group Company says:
 'This is the README.MD of the entreprise, if the README.MD of
 an account of the entreprise change, this will change for alls
-accounts' 0-->
+accounts' -->
 <!-- The Program Tech Group Company says:
 'This is the README.MD of the entreprise, if the README.MD of
 an account of the entreprise change, this will change for alls
@@ -42,3 +42,5 @@ maxpins=20
 minrepo=0
 maxrepo=-1
 -->
+
+Welcome to Media/Program Tech!
